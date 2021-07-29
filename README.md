@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Stats](https://github-status-dongqihourse.vercel.app/api?username=dongqihourse&show_icons=true&theme=dracula)
+![Stats](https://github-status-dongqihouse.vercel.app/api?username=dongqihouse&show_icons=true&theme=dracula)
+![mthli's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongqihouse&count_private=true&hide_title=true&show_icons=true)
