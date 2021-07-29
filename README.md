@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Stats](https://github-status-dongqihourse.vercel.app/api?username=dongqihourse&show_icons=true&theme=dracula)
