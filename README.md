@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Zepp Health
+🌱 I’m currently learning flutter and swift
+
 <!--
 **dongqihouse/dongqihouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
- 🔭 I’m currently working on Huami.Inc
- 🌱 I’m currently learning flutter and swift
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
