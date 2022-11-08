@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working at the Home
+🔭 I’m currently working from Home
 
 Look at my cats
 ![diban](./diban.jpeg)![diban](./ergou.jpeg)![diban](./amo.jpeg)
